@@ -1,0 +1,4 @@
+/home/scottkang123/Desktop/CS3281/assignment-2-scottkang123/build/CMakeFiles/shell.dir
+/home/scottkang123/Desktop/CS3281/assignment-2-scottkang123/build/CMakeFiles/test.dir
+/home/scottkang123/Desktop/CS3281/assignment-2-scottkang123/build/CMakeFiles/edit_cache.dir
+/home/scottkang123/Desktop/CS3281/assignment-2-scottkang123/build/CMakeFiles/rebuild_cache.dir
